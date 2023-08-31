@@ -4,7 +4,7 @@ A problem solver with a project management background and a passion for building
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abdulaziz-alzaid/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-alzaid) 
 
 # 💻 Tech Stack:
 
