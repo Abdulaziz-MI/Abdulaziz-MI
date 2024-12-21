@@ -1,6 +1,6 @@
  # ✍️ About Me:
  
-A problem solver with a project management background and a passion for building, maintaining, and continuously developing projects.
+Someone who finds fulfillment in using technology to solve problems.
 
 
 ## 🌐 Socials:
